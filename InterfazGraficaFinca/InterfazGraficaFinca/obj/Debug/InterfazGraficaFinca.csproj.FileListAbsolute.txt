@@ -1,0 +1,13 @@
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\bin\Debug\InterfazGraficaFinca.exe.config
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\bin\Debug\InterfazGraficaFinca.exe
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\bin\Debug\InterfazGraficaFinca.pdb
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\bin\Debug\BibFinca.dll
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\bin\Debug\BibFinca.pdb
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.Form1.resources
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.Properties.Resources.resources
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.exe
+C:\Users\Juan Pablo\Desktop\InterfazGraficaFinca\InterfazGraficaFinca\obj\Debug\InterfazGraficaFinca.pdb

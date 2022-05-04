@@ -1,0 +1,8 @@
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\bin\Debug\netstandard2.0\BibFinca.deps.json
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\bin\Debug\netstandard2.0\BibFinca.dll
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\bin\Debug\netstandard2.0\BibFinca.pdb
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\obj\Debug\netstandard2.0\BibFinca.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\obj\Debug\netstandard2.0\BibFinca.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\obj\Debug\netstandard2.0\BibFinca.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\obj\Debug\netstandard2.0\BibFinca.dll
+C:\Users\Juan Pablo\Desktop\BibFinca\BibFinca\obj\Debug\netstandard2.0\BibFinca.pdb
